@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+#100375386#
 
-You can use the [editor on GitHub](https://github.com/t4ss4hot4/slay/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**In what ways were British art and culture political in the Nineteenth Century?**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With the nineteenth century being a viable turning point within English society, the dawn of the industrial revolution pivoted not only technology within the time but also art and culture. The Nineteenth Century was a time of change and uprour in copius ways, studies of the time depicting unique momentous change within the century.
 
-### Markdown
+These changes stemming from social unrest were inheritly political, with countless uprisings throughout England at the time, protests leaked from every inch of society. These changes however were not the creation of purely physical uprisings from labourers but art and culture of the middle and upper class society took hits as well. The Arts became a politcally charged area ensuring their views on the new found changes were heard and their support of the uprisings accepted. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t4ss4hot4/slay/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+One way the arts became politcial was the dawn of the Romantic Artists, 
